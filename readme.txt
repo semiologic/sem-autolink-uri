@@ -3,7 +3,7 @@ Contributors: Denis-de-Bernardy
 Donate link: http://www.semiologic.com/partners/
 Tags: autolink, link, auto-link, semiologic
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 3.4.2
 Stable tag: trunk
 
 The Autolink URI plugin for WordPress automatically converts urls to hyperlinked urls.
@@ -35,6 +35,10 @@ If you require more dedicated assistance, consider using [Semiologic Pro](http:/
 
 
 == Change Log ==
+
+= 2.0.3 = 
+
+- Don't check inside of quotes.  Some shortcodes have urls as parameters
 
 = 2.0.2 =
 
