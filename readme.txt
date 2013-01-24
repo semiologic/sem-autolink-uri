@@ -2,7 +2,7 @@
 Contributors: Denis-de-Bernardy & Mike Koepke
 Donate link: http://www.semiologic.com/partners/
 Tags: autolink, link, auto-link, semiologic
-Requires at least: 2.8
+Requires at least: 3.1
 Tested up to: 3.5
 Stable tag: trunk
 
@@ -35,6 +35,10 @@ If you require more dedicated assistance, consider using [Semiologic Pro](http:/
 
 
 == Change Log ==
+
+= 2.0.4 =
+
+- Allow colons (:) in url matching
 
 = 2.0.3 = 
 
