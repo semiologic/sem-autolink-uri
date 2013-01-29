@@ -31,10 +31,15 @@ If you require more dedicated assistance, consider using [Semiologic Pro](http:/
 == Installation ==
 
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
 == Change Log ==
+
+= 2.1 =
+
+- Added support for port numbers in url
+- Fix localhost urls
 
 = 2.0.4 =
 
